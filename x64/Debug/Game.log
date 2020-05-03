@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Usman\source\repos\Game\main.cpp(70,47): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Game.vcxproj -> C:\Users\Usman\source\repos\Game\x64\Debug\Game.exe

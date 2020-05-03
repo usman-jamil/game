@@ -1,0 +1,2 @@
+C:\Users\Usman\source\repos\Game\x64\Debug\Game.exe
+C:\Users\Usman\source\repos\Game\x64\Debug\Game.pdb

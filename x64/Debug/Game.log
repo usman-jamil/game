@@ -1,7 +1,3 @@
 ﻿  main.cpp
-C:\Users\Usman\source\repos\Game\main.cpp(70,47): warning C4305: 'argument': truncation from 'double' to 'T'
-          with
-          [
-              T=float
-          ]
-  Game.vcxproj -> C:\Users\Usman\source\repos\Game\x64\Debug\Game.exe
+C:\Users\Usman\source\repos\game\main.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.vcxproj -> C:\Users\Usman\source\repos\game\x64\Debug\Game.exe
